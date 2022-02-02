@@ -1,0 +1,3 @@
+[submodule "container-env-ts-template"]
+	path = container-env-ts-template
+	url = https://github.com/stack-spot/container-env-ts-template
