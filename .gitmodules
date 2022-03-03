@@ -4,3 +4,6 @@
 [submodule "pipeline-env-ts-plugin"]
 	path = pipeline-env-ts-plugin
 	url = https://github.com/stack-spot/pipeline-env-ts-plugin.git
+[submodule "cdk-env-ts-template"]
+	path = cdk-env-ts-template
+	url = https://github.com/stack-spot/cdk-env-ts-template.git
