@@ -13,3 +13,6 @@
 [submodule "sns-env-ts-plugin"]
 	path = sns-env-ts-plugin
 	url = https://github.com/stack-spot/sns-env-ts-plugin.git
+[submodule "task-definition-app-ts-template"]
+	path = task-definition-app-ts-template
+	url = https://github.com/stack-spot/task-definition-app-ts-template.git
