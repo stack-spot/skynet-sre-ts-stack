@@ -1,6 +1,6 @@
 [submodule "container-env-ts-template"]
 	path = container-env-ts-template
-	url = https://github.com/stack-spot/container-env-ts-template
+	url = https://github.com/stack-spot/container-env-ts-template.git
 [submodule "pipeline-env-ts-plugin"]
 	path = pipeline-env-ts-plugin
 	url = https://github.com/stack-spot/pipeline-env-ts-plugin.git
@@ -13,3 +13,6 @@
 [submodule "task-definition-app-ts-template"]
 	path = task-definition-app-ts-template
 	url = https://github.com/stack-spot/task-definition-app-ts-template.git
+[submodule "sns-app-ts-plugin"]
+	path = sns-app-ts-plugin
+	url = https://github.com/stack-spot/sns-app-ts-plugin.git
