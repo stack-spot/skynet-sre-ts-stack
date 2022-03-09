@@ -7,9 +7,6 @@
 [submodule "cdk-env-ts-template"]
 	path = cdk-env-ts-template
 	url = https://github.com/stack-spot/cdk-env-ts-template.git
-[submodule "skynet-sre-ts-catalog"]
-	path = skynet-sre-ts-catalog
-	url = https://github.com/stack-spot/skynet-sre-ts-catalog
 [submodule "sns-env-ts-plugin"]
 	path = sns-env-ts-plugin
 	url = https://github.com/stack-spot/sns-env-ts-plugin.git
