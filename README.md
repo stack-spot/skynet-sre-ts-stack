@@ -1,3 +1,3 @@
-# skynet-sre-ts-catalog
+# skynet-sre-ts-stack
 
-SRE catalog in TypeScript.
+SRE stack in TypeScript.
